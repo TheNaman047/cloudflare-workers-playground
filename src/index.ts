@@ -39,3 +39,4 @@ export default {
 };
 
 const randomString = 'naman';
+const addsome = randomString + 'add some';
